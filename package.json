@@ -1,12 +1,12 @@
 {
-	"author": "Carlos Ferreras",
+	"author": "SwankyBubbles",
 	"license": "MIT",
 	"scripts": {
-		"start": "node index.js"
+		"start": "node discord_bot.js"
 	},
 	"dependencies": {
-		"axios": "^0.17.1",
-		"discord.js": "^11.3.0",
-		"dotenv": "^5.0.0"
+		"axios": "^0.26.0",
+		"discord.js": "^13.6.0",
+		"dotenv": "^16.0.0"
 	}
 }
